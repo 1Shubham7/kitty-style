@@ -28,7 +28,7 @@ var cfgFile string
 var rootCmd = &cobra.Command{
 	Use:   "kitty-style",
 	Short: "A user-friendly CLI tool for crafting and managing HTTP requests in the simplest way, with AI-powered query generation.",
-	Long: `is user-friendly CLI tool for simplifying data transfers between servers. It is a cURL alternative that  with intiutive quering
+	Long: `is user-friendly CLI tool for simplifying data transfers between servers. It is a cURL alternative that with intiutive quering
 and readable responses. Say goodbye to complex cURL commands and hello to an elegant, user-friendly alternative.
 
 1. Effortless query construction.
